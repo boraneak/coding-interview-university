@@ -54,13 +54,6 @@
 - [हिन्दी](https://github.com/jwasham/coding-interview-university/issues/81)
 </details>
 
-<div align="center">
-	<hr />
-    <p>
-        <a href="https://github.com/sponsors/jwasham"><strong>Become a sponsor</strong> and support Coding Interview University!</a>
-    </p>
-    <hr />
-</div>
 
 ## What is it?
 
@@ -348,18 +341,18 @@ This book will form your foundation for computer science.
 
 Just choose one, in a language that you will be comfortable with. You'll be doing a lot of reading and coding.
 
+### Python
+
+- [Coding Interview Patterns: Nail Your Next Coding Interview](https://geni.us/q7svoz) (**Main Recommendation**)
+    - An insider’s perspective on what interviewers are truly looking for and why.
+    - 101 real coding interview problems with detailed solutions.
+    - Intuitive explanations that guide you through each problem as if you were solving it in a live interview.
+    - 1000+ diagrams to illustrate key concepts and patterns.	
+
 ### C
 
 - [Algorithms in C, Parts 1-5 (Bundle), 3rd Edition](https://www.amazon.com/Algorithms-Parts-1-5-Bundle-Fundamentals/dp/0201756080)
     - Fundamentals, Data Structures, Sorting, Searching, and Graph Algorithms
-
-### Python
-
-- [Data Structures and Algorithms in Python](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275/)
-    - by Goodrich, Tamassia, Goldwasser
-    - I loved this book. It covered everything and more.
-    - Pythonic code
-    - my glowing book report: https://startupnextdoor.com/book-report-data-structures-and-algorithms-in-python/
 
 ### Java
 
@@ -387,15 +380,15 @@ Your choice:
 
 ## Interview Prep Books
 
-You don't need to buy a bunch of these. Honestly "Cracking the Coding Interview" is probably enough,
-but I bought more to give myself more practice. But I always do too much.
+Here are some recommended books to supplement your learning.
 
-I bought both of these. They gave me plenty of practice.
+- [Coding Interview Patterns: Nail Your Next Coding Interview](https://geni.us/q7svoz)
 
 - [Programming Interviews Exposed: Coding Your Way Through the Interview, 4th Edition](https://www.amazon.com/Programming-Interviews-Exposed-Through-Interview/dp/111941847X/)
     - Answers in C++ and Java
     - This is a good warm-up for Cracking the Coding Interview
     - Not too difficult. Most problems may be easier than what you'll see in an interview (from what I've read)
+
 - [Cracking the Coding Interview, 6th Edition](http://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850/)
     - answers in Java
 
@@ -1557,7 +1550,7 @@ You're never really done.
 	- [The Absolute Beginner's Guide to Emacs (video by David Wilson)](https://www.youtube.com/watch?v=48JlgiBpw_I&t=0s)
 	- [The Absolute Beginner's Guide to Emacs (notes by David Wilson)](https://systemcrafters.net/emacs-essentials/absolute-beginners-guide-to-emacs/)
 
-- ### Unix command line tools
+- ### Unix/Linux command line tools
     - I filled in the list below from good tools.
     - bash
     - cat
@@ -1570,6 +1563,10 @@ You're never really done.
     - uniq
     - [strace](https://en.wikipedia.org/wiki/Strace)
     - [tcpdump](https://danielmiessler.com/study/tcpdump/)
+    - [Essential Linux Commands Tutorial](https://labex.io/tutorials/practice-linux-commands-hands-on-labs-398420)
+
+- ### DevOps
+    - [DevOps Roadmap](https://roadmap.sh/devops)
 
 - ### Information theory (videos)
     - [Khan Academy](https://www.khanacademy.org/computing/computer-science/informationtheory)
